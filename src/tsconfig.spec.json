@@ -1,9 +1,9 @@
 {
+  "extends": "../tsconfig.json",
   "compilerOptions": {
     "module": "commonjs",
     "allowJs": true,
     "emitDecoratorMetadata": true,
-    "experimentalDecorators": true,
-    "lib": ["es2018"]
+    "experimentalDecorators": true
   }
 }
