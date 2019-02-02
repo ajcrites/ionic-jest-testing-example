@@ -3,6 +3,7 @@
     "module": "commonjs",
     "allowJs": true,
     "emitDecoratorMetadata": true,
-    "experimentalDecorators": true
+    "experimentalDecorators": true,
+    "lib": ["es2018"]
   }
 }
